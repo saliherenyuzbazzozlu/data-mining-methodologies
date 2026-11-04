@@ -1,0 +1,40 @@
+{
+  "rows": 5,
+  "out_of_training_range": {
+    "BALANCE": 0,
+    "BALANCE_FREQUENCY": 0,
+    "PURCHASES": 0,
+    "ONEOFF_PURCHASES": 0,
+    "INSTALLMENTS_PURCHASES": 0,
+    "CASH_ADVANCE": 0,
+    "PURCHASES_FREQUENCY": 0,
+    "ONEOFF_PURCHASES_FREQUENCY": 0,
+    "PURCHASES_INSTALLMENTS_FREQUENCY": 0,
+    "CASH_ADVANCE_TRX": 0,
+    "PURCHASES_TRX": 0,
+    "CREDIT_LIMIT": 0,
+    "PAYMENTS": 0,
+    "MINIMUM_PAYMENTS": 0,
+    "PRC_FULL_PAYMENT": 0,
+    "TENURE": 0
+  },
+  "unknown_category_counts": {},
+  "missing_fraction": {
+    "BALANCE": 0.0,
+    "BALANCE_FREQUENCY": 0.0,
+    "PURCHASES": 0.0,
+    "ONEOFF_PURCHASES": 0.0,
+    "INSTALLMENTS_PURCHASES": 0.0,
+    "CASH_ADVANCE": 0.0,
+    "PURCHASES_FREQUENCY": 0.0,
+    "ONEOFF_PURCHASES_FREQUENCY": 0.0,
+    "PURCHASES_INSTALLMENTS_FREQUENCY": 0.0,
+    "CASH_ADVANCE_TRX": 0.0,
+    "PURCHASES_TRX": 0.0,
+    "CREDIT_LIMIT": 0.0,
+    "PAYMENTS": 0.0,
+    "MINIMUM_PAYMENTS": 0.0,
+    "PRC_FULL_PAYMENT": 0.0,
+    "TENURE": 0.0
+  }
+}

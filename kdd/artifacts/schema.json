@@ -1,0 +1,124 @@
+{
+  "features": [
+    "BALANCE",
+    "BALANCE_FREQUENCY",
+    "PURCHASES",
+    "ONEOFF_PURCHASES",
+    "INSTALLMENTS_PURCHASES",
+    "CASH_ADVANCE",
+    "PURCHASES_FREQUENCY",
+    "ONEOFF_PURCHASES_FREQUENCY",
+    "PURCHASES_INSTALLMENTS_FREQUENCY",
+    "CASH_ADVANCE_TRX",
+    "PURCHASES_TRX",
+    "CREDIT_LIMIT",
+    "PAYMENTS",
+    "MINIMUM_PAYMENTS",
+    "PRC_FULL_PAYMENT",
+    "TENURE"
+  ],
+  "numeric": [
+    "BALANCE",
+    "BALANCE_FREQUENCY",
+    "PURCHASES",
+    "ONEOFF_PURCHASES",
+    "INSTALLMENTS_PURCHASES",
+    "CASH_ADVANCE",
+    "PURCHASES_FREQUENCY",
+    "ONEOFF_PURCHASES_FREQUENCY",
+    "PURCHASES_INSTALLMENTS_FREQUENCY",
+    "CASH_ADVANCE_TRX",
+    "PURCHASES_TRX",
+    "CREDIT_LIMIT",
+    "PAYMENTS",
+    "MINIMUM_PAYMENTS",
+    "PRC_FULL_PAYMENT",
+    "TENURE"
+  ],
+  "categorical": [],
+  "frequency": [
+    "BALANCE_FREQUENCY",
+    "PURCHASES_FREQUENCY",
+    "ONEOFF_PURCHASES_FREQUENCY",
+    "PURCHASES_INSTALLMENTS_FREQUENCY",
+    "PRC_FULL_PAYMENT"
+  ],
+  "log_columns": [
+    "BALANCE",
+    "PURCHASES",
+    "ONEOFF_PURCHASES",
+    "INSTALLMENTS_PURCHASES",
+    "CASH_ADVANCE",
+    "CASH_ADVANCE_TRX",
+    "PURCHASES_TRX",
+    "CREDIT_LIMIT",
+    "PAYMENTS",
+    "MINIMUM_PAYMENTS"
+  ],
+  "numeric_ranges": {
+    "BALANCE": [
+      0.0,
+      19043.13856
+    ],
+    "BALANCE_FREQUENCY": [
+      0.0,
+      1.0
+    ],
+    "PURCHASES": [
+      0.0,
+      40040.71
+    ],
+    "ONEOFF_PURCHASES": [
+      0.0,
+      33803.84
+    ],
+    "INSTALLMENTS_PURCHASES": [
+      0.0,
+      15497.19
+    ],
+    "CASH_ADVANCE": [
+      0.0,
+      47137.21176
+    ],
+    "PURCHASES_FREQUENCY": [
+      0.0,
+      1.0
+    ],
+    "ONEOFF_PURCHASES_FREQUENCY": [
+      0.0,
+      1.0
+    ],
+    "PURCHASES_INSTALLMENTS_FREQUENCY": [
+      0.0,
+      1.0
+    ],
+    "CASH_ADVANCE_TRX": [
+      0.0,
+      123.0
+    ],
+    "PURCHASES_TRX": [
+      0.0,
+      358.0
+    ],
+    "CREDIT_LIMIT": [
+      50.0,
+      25000.0
+    ],
+    "PAYMENTS": [
+      0.0,
+      39461.9658
+    ],
+    "MINIMUM_PAYMENTS": [
+      0.037744,
+      76406.20752
+    ],
+    "PRC_FULL_PAYMENT": [
+      0.0,
+      1.0
+    ],
+    "TENURE": [
+      6.0,
+      12.0
+    ]
+  }
+}

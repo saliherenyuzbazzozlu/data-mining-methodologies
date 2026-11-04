@@ -1,0 +1,7 @@
+{
+  "disjoint_splits": true,
+  "pipeline_roundtrip": true,
+  "missing_input_handled": true,
+  "all_clusters_observed": true,
+  "human_review_completed": false
+}

@@ -1,0 +1,4 @@
+{
+  "cash_advance_frequency_above_one": 8,
+  "decision": "Exclude ambiguous CASH_ADVANCE_FREQUENCY; retain CASH_ADVANCE and CASH_ADVANCE_TRX"
+}

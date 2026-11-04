@@ -1,0 +1,19 @@
+{
+  "winner": "log_kmeans_2",
+  "test_silhouette": 0.24629769772098267,
+  "test_davies_bouldin": 1.5758513007808868,
+  "test_cluster_shares": [
+    0.5854748603351956,
+    0.4145251396648045
+  ],
+  "validation_resampling_ARI": [
+    0.9843875807779837,
+    0.966690483225497,
+    0.9866110701695643,
+    0.9910651594636805,
+    0.9910648845310887
+  ],
+  "median_ARI": 0.9866110701695643,
+  "proxy_gate_passed": true,
+  "PCA_2d_variance": 0.5615341728589289
+}
