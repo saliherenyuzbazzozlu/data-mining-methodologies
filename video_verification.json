@@ -1,0 +1,20 @@
+{
+  "crisp_dm": {
+    "duration": "00:04:53.35",
+    "mean_audio_db": -15.9,
+    "bytes": 11018526,
+    "full_decode": "passed"
+  },
+  "semma": {
+    "duration": "00:04:40.59",
+    "mean_audio_db": -15.8,
+    "bytes": 9974400,
+    "full_decode": "passed"
+  },
+  "kdd": {
+    "duration": "00:04:58.24",
+    "mean_audio_db": -15.8,
+    "bytes": 10075217,
+    "full_decode": "passed"
+  }
+}

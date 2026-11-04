@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "checks": [
+    "crisp_dm: notebook, partition, scorer equivalence and invalid-input checks passed",
+    "semma: notebook, partition, scorer equivalence and invalid-input checks passed",
+    "kdd: notebook, partition, scorer equivalence and invalid-input checks passed",
+    "Churn: independent lift calculation and strict 20% capacity boundaries passed",
+    "Wine: independent RMSE calculation passed",
+    "KDD: independent cluster share calculation passed"
+  ],
+  "human_review_completed": false
+}
