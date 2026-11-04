@@ -1,0 +1,6 @@
+{
+  "type": "batch_top_fraction",
+  "fraction": 0.2,
+  "tie_break": "stable_input_order",
+  "classification_diagnostic_threshold": 0.5
+}
