@@ -1,0 +1,19 @@
+{
+  "kaggle_url": "https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009",
+  "download_url": "https://www.kaggle.com/api/v1/datasets/download/uciml/red-wine-quality-cortez-et-al-2009",
+  "download_date": "2026-11-03",
+  "files": [
+    {
+      "filename": "winequality-red.csv",
+      "sha256": "d6a0d9bd24806944818795f22500c46cb6424cbff517aacda36595d3ed9b2daa",
+      "bytes": 100951
+    }
+  ],
+  "original_source": {
+    "title": "Wine Quality",
+    "authors": "Paulo Cortez, Antonio Cerdeira, Fernando Almeida, Telmo Matos, Jose Reis",
+    "url": "https://archive.ics.uci.edu/dataset/186/wine+quality",
+    "doi": "10.24432/C56S3T",
+    "license": "CC BY 4.0 (UCI source)"
+  }
+}
