@@ -1,0 +1,30 @@
+{
+  "rows": 5,
+  "out_of_training_range": {
+    "fixed acidity": 0,
+    "volatile acidity": 0,
+    "citric acid": 0,
+    "residual sugar": 0,
+    "chlorides": 0,
+    "free sulfur dioxide": 0,
+    "total sulfur dioxide": 0,
+    "density": 0,
+    "pH": 0,
+    "sulphates": 0,
+    "alcohol": 0
+  },
+  "unknown_category_counts": {},
+  "missing_fraction": {
+    "fixed acidity": 0.0,
+    "volatile acidity": 0.0,
+    "citric acid": 0.0,
+    "residual sugar": 0.0,
+    "chlorides": 0.0,
+    "free sulfur dioxide": 0.0,
+    "total sulfur dioxide": 0.0,
+    "density": 0.0,
+    "pH": 0.0,
+    "sulphates": 0.0,
+    "alcohol": 0.0
+  }
+}

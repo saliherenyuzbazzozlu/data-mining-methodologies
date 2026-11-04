@@ -1,0 +1,13 @@
+,dtype,missing,unique
+fixed acidity,float64,0,96
+volatile acidity,float64,0,143
+citric acid,float64,0,80
+residual sugar,float64,0,91
+chlorides,float64,0,153
+free sulfur dioxide,float64,0,60
+total sulfur dioxide,float64,0,144
+density,float64,0,436
+pH,float64,0,89
+sulphates,float64,0,96
+alcohol,float64,0,65
+quality,int64,0,6

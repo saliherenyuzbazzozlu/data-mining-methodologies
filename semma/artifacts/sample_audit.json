@@ -1,0 +1,9 @@
+{
+  "raw_n": 1599,
+  "unique_n": 1359,
+  "exact_duplicates_removed": 240,
+  "n_train": 815,
+  "n_validation": 272,
+  "n_test": 272,
+  "feature_groups": 1359
+}
