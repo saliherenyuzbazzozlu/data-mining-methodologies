@@ -1,0 +1,12 @@
+{
+  "kaggle_url": "https://www.kaggle.com/datasets/arjunbhasin2013/ccdata",
+  "download_url": "https://www.kaggle.com/api/v1/datasets/download/arjunbhasin2013/ccdata",
+  "download_date": "2026-11-03",
+  "files": [
+    {
+      "filename": "CC GENERAL.csv",
+      "sha256": "29eea6389837c40fd760c927b5782563edeff55a37824598489716bdb3563be1",
+      "bytes": 902879
+    }
+  ]
+}
