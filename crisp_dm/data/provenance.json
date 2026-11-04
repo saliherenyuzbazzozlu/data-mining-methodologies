@@ -1,0 +1,12 @@
+{
+  "kaggle_url": "https://www.kaggle.com/datasets/blastchar/telco-customer-churn",
+  "download_url": "https://www.kaggle.com/api/v1/datasets/download/blastchar/telco-customer-churn",
+  "download_date": "2026-11-03",
+  "files": [
+    {
+      "filename": "WA_Fn-UseC_-Telco-Customer-Churn.csv",
+      "sha256": "88be4b93fbe0cc83421af1c503794c97c342eca914c1576db7c276e61d61358a",
+      "bytes": 977501
+    }
+  ]
+}
